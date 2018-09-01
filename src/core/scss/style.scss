@@ -1,0 +1,5 @@
+@import "../spritesmith-generated/sprite";
+
+.badoo {
+  @include sprite($badoo)
+}
